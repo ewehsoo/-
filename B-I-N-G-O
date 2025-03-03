@@ -1,0 +1,11 @@
+function main() {
+    var letter1 = "B";
+    var letter2 = "I";
+    var letter3 = "N";
+    var letter4 = "G";
+    var letter5 = "O";
+
+    print(letter1 + "-" + letter2 + "-" + letter3 + "-" + letter4 + "-" + letter5);
+}
+
+main();
