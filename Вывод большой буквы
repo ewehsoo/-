@@ -1,0 +1,10 @@
+// Программа для вывода большой буквы "A"
+function main() {
+    print("   A   ");
+    print("  A A  ");
+    print(" AAAAA ");
+    print("A     A");
+}
+
+// Вызов основной функции
+main();
