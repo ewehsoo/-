@@ -1,0 +1,8 @@
+function main() {
+    var number = 7; 
+    for (var i = 1; i <= 10; i++) {
+        var result = number * i; 
+        print(number + " x " + i + " = " + result);
+    }
+}
+main();
