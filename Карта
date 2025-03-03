@@ -1,0 +1,21 @@
+function main() {
+    var cardHolder = "Сучков Ренат"; 
+    var cardNum = "1234 5908 9034 7756"; 
+    var Date = "12/27"; 
+    var bank = "Банк Тинькофф"; 
+    var cardType = "Дебетовая"; 
+
+    print("┌───────────────────────────────┐");
+    print("│          " + bankName + "          │");
+    print("│                               │");
+    print("│  Держатель: " + cardHolder + "  │");
+    print("│                               │");
+    print("│  Номер карты: " + cardNumber + " │");
+    print("│                               │");
+    print("│  Срок действия: " + expiryDate + "  │");
+    print("│                               │");
+    print("│  Тип карты: " + cardType + "       │");
+    print("└───────────────────────────────┘");
+}
+
+main();
