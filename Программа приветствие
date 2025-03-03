@@ -1,4 +1,3 @@
-function main() {
-    print("Привет, мир!");
-}
-main();
+start
+log string "Hello, world!"
+finish
