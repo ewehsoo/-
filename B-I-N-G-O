@@ -1,11 +1,13 @@
-function main() {
-    var letter1 = "B";
-    var letter2 = "I";
-    var letter3 = "N";
-    var letter4 = "G";
-    var letter5 = "O";
-
-    print(letter1 + "-" + letter2 + "-" + letter3 + "-" + letter4 + "-" + letter5);
-}
-
-main();
+start
+new b string
+set b B
+new i string
+set i I
+new n string
+set n N
+new g string
+set g G
+new o string
+set o O
+log string b << "-" << i << "-" << n << "-" << g << "-" << o
+finish
