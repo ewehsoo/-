@@ -1,8 +1,6 @@
-function main() {
-    print("   A   ");
-    print("  A A  ");
-    print(" AAAAA ");
-    print("A     A");
-}
-
-main();
+start
+log string "    /\     "
+log string "   /  \    "
+log string "  /    \   "
+log string " /      \  "
+finish
